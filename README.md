@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
+Aplicação desenvolvida durante o NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
 <p align="center">
@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver a versão simplificada de um sistema de check-in para eventos presenciais.
+Nesse projeto guiado pela equipe da Rocketseat desenvolvi a versão simplificada de um sistema de check-in para eventos presenciais.
